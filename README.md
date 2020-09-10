@@ -1,3 +1,3 @@
 # MyFirstRepository
 
-my name is YoungDan
+My name is YoungDan
